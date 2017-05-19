@@ -15,6 +15,7 @@
 		18FE56571ECEF2A600DECD02 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18FE56551ECEF2A600DECD02 /* LaunchScreen.storyboard */; };
 		18FE56621ECEF2A600DECD02 /* ssssaasTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18FE56611ECEF2A600DECD02 /* ssssaasTests.m */; };
 		18FE566D1ECEF2A600DECD02 /* ssssaasUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18FE566C1ECEF2A600DECD02 /* ssssaasUITests.m */; };
+		18FE567B1ECEF2C400DECD02 /* manifest.plist in Resources */ = {isa = PBXBuildFile; fileRef = 18FE567A1ECEF2C400DECD02 /* manifest.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		18FE56681ECEF2A600DECD02 /* ssssaasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ssssaasUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18FE566C1ECEF2A600DECD02 /* ssssaasUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ssssaasUITests.m; sourceTree = "<group>"; };
 		18FE566E1ECEF2A600DECD02 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18FE567A1ECEF2C400DECD02 /* manifest.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = manifest.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				18FE564B1ECEF2A600DECD02 /* AppDelegate.m */,
 				18FE564D1ECEF2A600DECD02 /* ViewController.h */,
 				18FE564E1ECEF2A600DECD02 /* ViewController.m */,
+				18FE567A1ECEF2C400DECD02 /* manifest.plist */,
 				18FE56501ECEF2A600DECD02 /* Main.storyboard */,
 				18FE56531ECEF2A600DECD02 /* Assets.xcassets */,
 				18FE56551ECEF2A600DECD02 /* LaunchScreen.storyboard */,
@@ -252,6 +255,7 @@
 				18FE56571ECEF2A600DECD02 /* LaunchScreen.storyboard in Resources */,
 				18FE56541ECEF2A600DECD02 /* Assets.xcassets in Resources */,
 				18FE56521ECEF2A600DECD02 /* Main.storyboard in Resources */,
+				18FE567B1ECEF2C400DECD02 /* manifest.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
